@@ -1,0 +1,57 @@
+
+body{
+  background-color: #fff;
+  position: absolute;
+}
+#title{
+  position: relative;
+  margin-right: 20px;
+}
+.image-section{
+  text-align: center;
+}
+
+h6, a {
+  text-decoration: none;
+}
+
+a{
+  margin-bottom:  10px;
+
+}
+
+.main-direct{
+  margin-bottom: 0px;
+
+}
+
+.link-text{
+  margin-top: : 20px;
+
+}
+.micro-img{
+width: 5%;
+background-color: white;
+}
+
+.information{
+  margin-top: 200px;
+  margin-right: : 40px;
+
+  text-decoration: none;
+}
+
+.search-btn{
+  text-align: center;
+  padding: 10px 220px;
+  border-radius: 10%;
+}
+
+.first-row{
+  line-height:inherit;
+  margin-left: 40px;
+}
+
+.footer-section{
+  padding: 7% 15%;
+}
